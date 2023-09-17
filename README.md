@@ -1,4 +1,5 @@
 # DSC Phase 4 Project
+![Local Image](../robo-doc.jpg)
 
 #### -- Project Status: [Active]
 
@@ -25,4 +26,4 @@ To solve our pneumonia classification problem, chest X-ray images are invaluable
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook](https://github.com/Jimmy772/dsc-phase-4-project/blob/main/index.ipynb)
-* [Slide DeckTitle](https://docs.google.com/presentation/d/1nCDdgCXr6pjNC4G80usxXPDtGqRW0DPzb7CaRyrbEq0/edit?usp=sharing)
+* [Slide Presentation](https://docs.google.com/presentation/d/1nCDdgCXr6pjNC4G80usxXPDtGqRW0DPzb7CaRyrbEq0/edit?usp=sharing)
