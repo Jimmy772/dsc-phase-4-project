@@ -1,5 +1,5 @@
 # DSC Phase 4 Project
-![Local Image](../robo-doc.jpg)
+![Local Image](robo-doc.jpg)
 
 #### -- Project Status: [Active]
 
