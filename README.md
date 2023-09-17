@@ -1,7 +1,7 @@
 # DSC Phase 4 Project
 ![Local Image](robo-doc.jpg)
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is accurately identifying pneumonia cases from chest X-ray images.
